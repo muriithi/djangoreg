@@ -1,0 +1,16 @@
+
+
+
+body{
+}		
+
+#form,
+#form h1,
+#form span,
+#form input,
+#form label{
+	margin : 0;
+	padding :0;
+	border :0;
+	outline :0;
+}
