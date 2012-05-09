@@ -1,0 +1,4 @@
+A django app that uses django-registration to:
+	-Register new users.
+	-Log in users
+	-Log out users
